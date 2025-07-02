@@ -48,7 +48,7 @@ These are located under `/intern_submissions/`.
 
 ---
 
-## 🤝 Collaborative Build (Coming Week 2)
+## 🤝 Collaborative Build (Upcoming Weeks)
 
 The `/collaborative_build/` folder will be used to merge the strongest elements from all intern submissions into a unified, peer-reviewed algorithm.
 
