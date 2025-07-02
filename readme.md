@@ -53,7 +53,33 @@ These are located under `/intern_submissions/`.
 The `/collaborative_build/` folder will be used to merge the strongest elements from all intern submissions into a unified, peer-reviewed algorithm.
 
 ---
+## gitignore:
+This file tells Git which files or folders should be ignored in version control.
+It helps keep the repository clean by excluding unnecessary, machine-specific, or sensitive files.
+common_ignored_items:
+      - "__pycache__/"
+      - "*.ipynb_checkpoints/"
+      - ".vscode/"
+      - ".DS_Store"
+      - ".env"
+purpose: 
+      - Prevents committing temp or local files
+      - Avoids OS/IDE clutter in the repo
+      - Helps keep the repository clean
 
+## requirements_txt:
+This file lists all Python dependencies used in the project.
+It ensures that all contributors can install the exact same packages using a single command.
+install_command: "pip install -r requirements.txt"
+sample_entries:
+      - "pandas==1.5.3"
+      - "scikit-learn==1.3.2"
+      - "matplotlib"
+      - "streamlit"
+purpose: 
+      - Ensures consistent environments across machines
+      - Simplifies package management
+      - Makes setup easier for new collaborators
 ## 📚 References
 
 - Prof. Andreas Bender – Oncode Summit Talk (2024)
