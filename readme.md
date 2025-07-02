@@ -1,30 +1,44 @@
 #  Clinical Algorithm Case Study – Pharmedic Internship
 
-This repository contains the work completed by the Product & Technology Interns at **Pharmedic** as part of the Week 1 challenge:  
+This repository contains the work completed by the Product & Technology Interns at **Pharmedic** concerning the case study:  
 **"How to Bring the Right Drug to the Right Patient in the Right Way"**, based on a case study presented by Prof. Andreas Bender at the Oncode Accelerator Summit 2024.
 
 ---
 
 ## 📁 Repository Structure
-/clinical-algorithm-case-study/
-├── README.md
-├── requirements.txt
+```
+PHARMEDIC_CLINICAL_ALGO/
+├── collaborative_build/
+│   ├── final_solution.py
+│   └── readme.md
+│
+├── intern_submissions/
+│   ├── Alagappan_Alagappan/
+│   │   ├── Alagappan-case study report.pdf
+│   │   └── solution.py
+│   │
+│   ├── Emna_Arfaoui/
+│   │   ├── Emna Arfaoui - Case Study Report.pdf
+│   │   └── solution.py
+│   │
+│   ├── Fathima_Arfa/
+│   │   ├── Arfa_case study report.docx
+│   │   └── solution.py
+│   │
+│   └── Raheel_Siddiqui/
+│       ├── Key Challenges in Implementing AI for Drug Discovery and Proposed Solution.pdf
+│       └── solution.py
+│
+├── shared_resources/
+│   ├── Pharmedic Case Study.pdf
+│   └── useful_links.md
+│
 ├── .gitignore
-│
-├── /intern_submissions/
-│ ├── Emna_Arfaoui/
-│ ├── Alagappan_Alagappan/
-│ ├── Raheel_Siddiqui/
-│ └── Fathima_Arfa/
-│
-├── /shared_resources/
-│ ├── mock_case_study.pdf
-│ ├── evaluation_criteria.md
-│ └── useful_links.md
-│
-└── /collaborative_build/
-├── final_solution.py
-└── README.md
+├── README.md
+└── requirements.txt
+```
+
+
 
 
 ---
