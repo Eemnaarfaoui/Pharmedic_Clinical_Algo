@@ -7,24 +7,35 @@ This repository contains the work completed by the Product & Technology Interns 
 
 ## 📁 Repository Structure
 ```
-/clinical-algorithm-case-study/
-├── README.md
-├── requirements.txt
-├── .gitignore
+PHARMEDIC_CLINICAL_ALGO/
+├── collaborative_build/
+│   ├── final_solution.py
+│   └── readme.md
 │
 ├── intern_submissions/
-│   ├── Emna_Arfaoui/
 │   ├── Alagappan_Alagappan/
-│   ├── Raheel_Siddiqui/
-│   └── Fathima_Arfa/
+│   │   ├── Alagappan-case study report.pdf
+│   │   └── solution.py
+│   │
+│   ├── Emna_Arfaoui/
+│   │   ├── Emna Arfaoui - Case Study Report.pdf
+│   │   └── solution.py
+│   │
+│   ├── Fathima_Arfa/
+│   │   ├── Arfa_case study report.docx
+│   │   └── solution.py
+│   │
+│   └── Raheel_Siddiqui/
+│       ├── Key Challenges in Implementing AI for Drug Discovery and Proposed Solution.pdf
+│       └── solution.py
 │
 ├── shared_resources/
 │   ├── Pharmedic Case Study.pdf
 │   └── useful_links.md
 │
-└── collaborative_build/
-    ├── final_solution.py
-    └── README.md
+├── .gitignore
+├── README.md
+└── requirements.txt
 ```
 
 
