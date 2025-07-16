@@ -37,3 +37,6 @@ This document outlines the technical design of the core module integration in th
 - **Outputs:** Risk level (e.g., “High”, “Moderate”, “Low”)  
 - **Logic:**  
 - **Use Case:** 
+- **Test cases:** 
+- **Model / Features we can add (based on week 2 audit):** 
+ 
