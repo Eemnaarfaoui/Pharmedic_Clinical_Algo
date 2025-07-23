@@ -6,13 +6,13 @@
 
 ---
 
-##  1. Overview
+## 1. Overview
 
 This document outlines the technical design of the core module integration in the Pharmedic platform. It includes architecture choices, model explainability, and integration strategies for internal APIs.
 
 ---
 
-##   2. System Architecture
+## 2. System Architecture
 
 ### 2.1 Architecture Diagram
 
@@ -20,7 +20,7 @@ This document outlines the technical design of the core module integration in th
 
 ### 2.2 Components
 
-- **Model A – Model Name** (Raheel)
+- **Model A – ADR Risk Classifier** (Raheel)
 - **Model B – Model Name** (Fathima)
 - **Model C – Model Name** (Alagappan)
 - **Internal REST API Layer**
@@ -29,8 +29,9 @@ This document outlines the technical design of the core module integration in th
 
 ---
 
-##  3. Model Explainability
+## 3. Model Explainability
 
+### 🟢 Model A (Raheel) – ADR Risk Classifier
 ### 🟢 Model A (Raheel) – ADR Risk Classifier
 
 - **Inputs:**
