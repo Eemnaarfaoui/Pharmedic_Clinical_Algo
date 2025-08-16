@@ -135,3 +135,17 @@ build_env/
 
 ## VSCode
 .vscode/
+# Ignore virtual environments and system files
+.venv/
+test1/
+__pycache__/
+*.exe
+*.bat
+*.ps1
+*.log
+*.png
+*.jpg
+*.jpeg
+*.db
+*.pyc
+.gitignore
